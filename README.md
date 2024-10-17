@@ -1,4 +1,4 @@
-#guessTheNumber
+# guessTheNumber
 
 -Build a Number guessing game, in which the user selects a range.
 -Let’s say User selected a range, i.e., from A to B, where A and B belong to Integer.
